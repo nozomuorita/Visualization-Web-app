@@ -1,4 +1,8 @@
 <h1>Visualization Web app (for plotly Dash)</h1>
+
+> **Note**
+> All data in this repository is sample data.
+<br>
 <img src='screenshot/top.png', alt='Web app screener image1'>
 <img src='screenshot/tab2.png', alt='Web app screenshot image2'>
 
