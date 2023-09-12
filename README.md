@@ -5,10 +5,10 @@
 <img src='screenshot/fig1.png', alt='Web app screener image1'>
 <img src='screenshot/fig2.png', alt='Web app screenshot image2'>
 <br>
-<br>
 <h1>Overview</h1>
-This web app allows you to interactively visualize your analyzed data written in Python.<br>
-Select and apply the parameters from the sidebar and the graph will appear on the right side.<br>
+分析結果をインタラクティブに可視化することができるWebアプリケーションです。<br>
+サイドバーでパラメータを選択することで、右側にグラフが表示されます。
+<br>
 <br>
 <h1>Directory Structure</h1>
 app/<br>
