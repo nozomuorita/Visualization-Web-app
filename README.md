@@ -2,6 +2,8 @@
 
 > **Note**
 > All data in this repository is sample data.
+> 
+<br>
 <img src='screenshot/fig1.png', alt='Web app screener image1'>
 <img src='screenshot/fig2.png', alt='Web app screenshot image2'>
 <br>
