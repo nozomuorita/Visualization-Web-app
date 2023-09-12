@@ -10,6 +10,26 @@
 サイドバーでパラメータを選択することで、右側にグラフが表示されます。
 <br>
 <br>
+<h1>Tools</h1>
+<ul>
+    <li>Windows11</li>
+    <li>Python 3.11.4</li>
+    <li>Visual Studio Code</li>
+</ul>
+<br>
+<h1>Python Library</h1>
+<ul>
+    <li>dash：2.13.0</li>
+    <li>dash-auth：2.0.0</li>
+    <li>dash-bootstrap-components：1.4.2</li>
+    <li>dash-core-components：2.0.0</li>
+    <li>dash-html-components：2.0.0</li>
+    <li>dash-iconify：0.1.2</li>
+    <li>dash-mantine-components：0.12.1</li>
+    <li>pandas：2.0.3</li>
+    <li>plotly：5.16.1</li>
+</ul>
+<br>
 <h1>Directory Structure</h1>
 app/<br>
 　├─data<br>
